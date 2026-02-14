@@ -1,0 +1,4 @@
+Answer:
+The distribution of content ratings is as follows: PG-13 (301 movies), R (296 movies), PG (91 movies), and G (21 movies). A bar chart has been created to visualize these frequencies.
+
+Confidence: 60

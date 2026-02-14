@@ -1,0 +1,6 @@
+openai
+pydantic
+python-dotenv
+pandas
+numpy
+streamlit>=1.38.0
